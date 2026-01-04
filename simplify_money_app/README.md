@@ -1,4 +1,4 @@
-# Metals Price Tracker App
+# Metals Price Tracker for Simplify Money App
 
 A React Native Expo application that displays live prices for Gold, Silver, Platinum, and Palladium.
 
@@ -91,4 +91,5 @@ If an API call fails, an error message is displayed in that specific tile withou
 ## License
 
 This is an internal assignment project.
+
 
